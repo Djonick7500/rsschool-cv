@@ -1,12 +1,1 @@
-11
-22
-33
-55
-66
-77
-88
-99
-1010
-1111
-12
-13
+https://github.com/Djonick7500/rsschool-cv/blob/main/cv.md
