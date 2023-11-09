@@ -24,3 +24,8 @@ If ActiveSheet.DrawingObjects("A" & j + 1).Object.Value = True And Cells(j + 2, 
 ElseIf ActiveSheet.DrawingObjects("A" & j + 1).Object.Value = True And Cells(j + 2, 2).Interior.Color <> RGB(191, 191, 191) Then
     kkk = kkk & " " & Cells(j + 1, 2).Value & " в соответствии с " & Cells(j + 1, 5).Value & ";"
 End If
+6. Work experience: jast study
+7. Educations:
+    - BSTU (ingeneer of sertification);
+    - BNTU (engeneer-buelder)
+8. English level: B1
